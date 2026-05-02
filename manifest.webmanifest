@@ -1,0 +1,19 @@
+{
+  "name": "8000+ 词汇训练",
+  "short_name": "8K 词汇",
+  "description": "单人英语词汇学习应用，支持主动回忆、间隔复习、语音和打卡。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f6f2e8",
+  "theme_color": "#2d7a4d",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "starter",
+    "title": "Starter 样例",
+    "description": "内置手写样例词，用于快速验证功能。",
+    "source": "local"
+  },
+  {
+    "id": "cet6",
+    "title": "CET6 六级",
+    "description": "2600 words from ECDICT tag \"cet6\".",
+    "source": "ECDICT MIT",
+    "file": "/wordbooks/cet6.json",
+    "count": 2600
+  },
+  {
+    "id": "toefl",
+    "title": "TOEFL 托福",
+    "description": "3500 words from ECDICT tag \"toefl\".",
+    "source": "ECDICT MIT",
+    "file": "/wordbooks/toefl.json",
+    "count": 3500
+  },
+  {
+    "id": "ielts",
+    "title": "IELTS 雅思",
+    "description": "3500 words from ECDICT tag \"ielts\".",
+    "source": "ECDICT MIT",
+    "file": "/wordbooks/ielts.json",
+    "count": 3500
+  }
+]
