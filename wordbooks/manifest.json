@@ -6,27 +6,43 @@
     "source": "local"
   },
   {
+    "id": "exam8000",
+    "title": "8000+ 综合",
+    "description": "8000 words. CET6/TOEFL/IELTS union, deduped and ranked to the first 8000 words.",
+    "source": "ECDICT MIT",
+    "file": "/wordbooks/exam8000.json",
+    "count": 8000
+  },
+  {
+    "id": "examPlus",
+    "title": "扩展 10K",
+    "description": "10370 words. Full CET6/TOEFL/IELTS union from ECDICT, deduped for later expansion.",
+    "source": "ECDICT MIT",
+    "file": "/wordbooks/exam-plus.json",
+    "count": 10370
+  },
+  {
     "id": "cet6",
     "title": "CET6 六级",
-    "description": "2600 words from ECDICT tag \"cet6\".",
+    "description": "5402 words. Full ECDICT tag \"cet6\" wordbook.",
     "source": "ECDICT MIT",
     "file": "/wordbooks/cet6.json",
-    "count": 2600
+    "count": 5402
   },
   {
     "id": "toefl",
     "title": "TOEFL 托福",
-    "description": "3500 words from ECDICT tag \"toefl\".",
+    "description": "6952 words. Full ECDICT tag \"toefl\" wordbook.",
     "source": "ECDICT MIT",
     "file": "/wordbooks/toefl.json",
-    "count": 3500
+    "count": 6952
   },
   {
     "id": "ielts",
     "title": "IELTS 雅思",
-    "description": "3500 words from ECDICT tag \"ielts\".",
+    "description": "5019 words. Full ECDICT tag \"ielts\" wordbook.",
     "source": "ECDICT MIT",
     "file": "/wordbooks/ielts.json",
-    "count": 3500
+    "count": 5019
   }
 ]

@@ -6,6 +6,7 @@ const CORE_PATHS = [
   "./favicon.svg",
   "./manifest.webmanifest",
   "./wordbooks/manifest.json",
+  "./wordbooks/exam8000.json",
   "./wordbooks/cet6.json",
   "./wordbooks/toefl.json",
   "./wordbooks/ielts.json",
